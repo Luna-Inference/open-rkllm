@@ -1,0 +1,409 @@
+                 U GOMP_barrier@GOMP_1.0
+                 U GOMP_parallel@GOMP_4.0
+                 U GOMP_single_start@GOMP_1.0
+                 w _ITM_deregisterTMCloneTable
+                 w _ITM_registerTMCloneTable
+                 U _Unwind_Resume@GCC_3.0
+                 U std::__basic_file<char>::is_open() const@GLIBCXX_3.4
+                 U std::runtime_error::what() const@GLIBCXX_3.4
+                 U std::__codecvt_utf8_base<char32_t>::do_unshift(__mbstate_t&, char*, char*, char*&) const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<char32_t>::do_encoding() const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<char32_t>::do_max_length() const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<char32_t>::do_always_noconv() const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<char32_t>::do_in(__mbstate_t&, char const*, char const*, char const*&, char32_t*, char32_t*, char32_t*&) const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<char32_t>::do_out(__mbstate_t&, char32_t const*, char32_t const*, char32_t const*&, char*, char*, char*&) const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<char32_t>::do_length(__mbstate_t&, char const*, char const*, unsigned long) const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::do_unshift(__mbstate_t&, char*, char*, char*&) const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::do_encoding() const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::do_max_length() const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::do_always_noconv() const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::do_in(__mbstate_t&, char const*, char const*, char const*&, wchar_t*, wchar_t*, wchar_t*&) const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::do_out(__mbstate_t&, wchar_t const*, wchar_t const*, wchar_t const*&, char*, char*, char*&) const@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::do_length(__mbstate_t&, char const*, char const*, unsigned long) const@GLIBCXX_3.4.21
+                 U std::ctype<char>::_M_widen_init() const@GLIBCXX_3.4.11
+                 U std::locale::id::_M_id() const@GLIBCXX_3.4
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::find_first_of(char const*, unsigned long, unsigned long) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::find(char const*, unsigned long, unsigned long) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::find(char, unsigned long) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::rfind(char const*, unsigned long, unsigned long) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::rfind(char, unsigned long) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::substr(unsigned long, unsigned long) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::compare(char const*) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::compare(unsigned long, unsigned long, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::str() const@GLIBCXX_3.4.21
+                 U std::__detail::_Prime_rehash_policy::_M_next_bkt(unsigned long) const@GLIBCXX_3.4.18
+                 U std::__detail::_Prime_rehash_policy::_M_need_rehash(unsigned long, unsigned long, unsigned long) const@GLIBCXX_3.4.18
+                 U std::basic_iostream<char, std::char_traits<char> >::~basic_iostream()@GLIBCXX_3.4
+                 U std::basic_istream<char, std::char_traits<char> >& std::basic_istream<char, std::char_traits<char> >::_M_extract<long>(long&)@GLIBCXX_3.4.9
+                 U std::basic_istream<char, std::char_traits<char> >& std::basic_istream<char, std::char_traits<char> >::_M_extract<unsigned long>(unsigned long&)@GLIBCXX_3.4.9
+                 U std::basic_istream<char, std::char_traits<char> >::tellg()@GLIBCXX_3.4
+                 U std::basic_istream<char, std::char_traits<char> >::operator>>(int&)@GLIBCXX_3.4
+                 U std::basic_ostream<char, std::char_traits<char> >::put(char)@GLIBCXX_3.4
+                 U std::basic_ostream<char, std::char_traits<char> >::flush()@GLIBCXX_3.4
+                 U std::basic_ostream<char, std::char_traits<char> >::seekp(std::fpos<__mbstate_t>)@GLIBCXX_3.4
+                 U std::basic_ostream<char, std::char_traits<char> >::write(char const*, long)@GLIBCXX_3.4
+                 U std::basic_ostream<char, std::char_traits<char> >& std::basic_ostream<char, std::char_traits<char> >::_M_insert<long>(long)@GLIBCXX_3.4.9
+                 U std::basic_ostream<char, std::char_traits<char> >& std::basic_ostream<char, std::char_traits<char> >::_M_insert<unsigned long>(unsigned long)@GLIBCXX_3.4.9
+                 U std::basic_ostream<char, std::char_traits<char> >::operator<<(std::basic_streambuf<char, std::char_traits<char> >*)@GLIBCXX_3.4
+                 U std::basic_ostream<char, std::char_traits<char> >::operator<<(int)@GLIBCXX_3.4
+                 U std::logic_error::logic_error(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@GLIBCXX_3.4.21
+                 U std::logic_error::logic_error(std::logic_error const&)@GLIBCXX_3.4.21
+                 U std::regex_error::~regex_error()@GLIBCXX_3.4.15
+                 U std::__basic_file<char>::~__basic_file()@GLIBCXX_3.4
+                 U std::future_error::~future_error()@GLIBCXX_3.4.14
+                 U std::out_of_range::out_of_range(char const*)@GLIBCXX_3.4.21
+                 U std::out_of_range::~out_of_range()@GLIBCXX_3.4
+                 U std::__future_base::_Result_base::_Result_base()@GLIBCXX_3.4.15
+                 U std::__future_base::_Result_base::~_Result_base()@GLIBCXX_3.4.15
+                 U std::basic_filebuf<char, std::char_traits<char> >::open(char const*, std::_Ios_Openmode)@GLIBCXX_3.4
+                 U std::basic_filebuf<char, std::char_traits<char> >::close()@GLIBCXX_3.4
+                 U std::basic_filebuf<char, std::char_traits<char> >::basic_filebuf()@GLIBCXX_3.4
+                 U std::basic_filebuf<char, std::char_traits<char> >::~basic_filebuf()@GLIBCXX_3.4
+                 U std::basic_filebuf<char, std::char_traits<char> >::operator=(std::basic_filebuf<char, std::char_traits<char> >&&)@GLIBCXX_3.4.21
+                 U std::basic_istream<wchar_t, std::char_traits<wchar_t> >& std::basic_istream<wchar_t, std::char_traits<wchar_t> >::_M_extract<long>(long&)@GLIBCXX_3.4.9
+                 U std::random_device::_M_fini()@GLIBCXX_3.4.18
+                 U std::random_device::_M_init(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@GLIBCXX_3.4.21
+                 U std::random_device::_M_getval()@GLIBCXX_3.4.18
+                 U std::runtime_error::runtime_error(char const*)@GLIBCXX_3.4.21
+                 U std::runtime_error::runtime_error(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@GLIBCXX_3.4.21
+                 U std::runtime_error::runtime_error(std::runtime_error const&)@GLIBCXX_3.4.21
+                 U std::runtime_error::runtime_error(char const*)@GLIBCXX_3.4.21
+                 U std::runtime_error::~runtime_error()@GLIBCXX_3.4
+                 U std::basic_ifstream<char, std::char_traits<char> >::close()@GLIBCXX_3.4
+                 U std::basic_ifstream<char, std::char_traits<char> >::basic_ifstream(char const*, std::_Ios_Openmode)@GLIBCXX_3.4
+                 U std::basic_ifstream<char, std::char_traits<char> >::~basic_ifstream()@GLIBCXX_3.4
+                 U std::basic_ofstream<char, std::char_traits<char> >::~basic_ofstream()@GLIBCXX_3.4
+                 U std::__exception_ptr::exception_ptr::swap(std::__exception_ptr::exception_ptr&)@CXXABI_1.3.3
+                 U std::__exception_ptr::exception_ptr::exception_ptr(void*)@CXXABI_1.3.11
+                 U std::__exception_ptr::exception_ptr::exception_ptr(std::__exception_ptr::exception_ptr const&)@CXXABI_1.3.3
+                 U std::__exception_ptr::exception_ptr::~exception_ptr()@CXXABI_1.3.3
+                 U std::__exception_ptr::operator==(std::__exception_ptr::exception_ptr const&, std::__exception_ptr::exception_ptr const&)@CXXABI_1.3.3
+                 U std::invalid_argument::invalid_argument(char const*)@GLIBCXX_3.4.21
+                 U std::invalid_argument::invalid_argument(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@GLIBCXX_3.4.21
+                 U std::invalid_argument::~invalid_argument()@GLIBCXX_3.4
+                 U std::condition_variable::notify_all()@GLIBCXX_3.4.11
+                 U std::condition_variable::wait(std::unique_lock<std::mutex>&)@GLIBCXX_3.4.11
+                 U std::condition_variable::condition_variable()@GLIBCXX_3.4.11
+                 U std::condition_variable::~condition_variable()@GLIBCXX_3.4.11
+                 U std::__codecvt_utf8_base<char32_t>::~__codecvt_utf8_base()@GLIBCXX_3.4.21
+                 U std::__codecvt_utf8_base<wchar_t>::~__codecvt_utf8_base()@GLIBCXX_3.4.21
+                 U std::__atomic_futex_unsigned_base::_M_futex_notify_all(unsigned int*)@GLIBCXX_3.4.21
+                 U std::__atomic_futex_unsigned_base::_M_futex_wait_until(unsigned int*, unsigned int, bool, std::chrono::duration<long, std::ratio<1l, 1l> >, std::chrono::duration<long, std::ratio<1l, 1000000000l> >)@GLIBCXX_3.4.21
+                 U std::_V2::generic_category()@GLIBCXX_3.4.21
+                 U std::ctype<char>::id@GLIBCXX_3.4
+                 U std::ctype<wchar_t>::id@GLIBCXX_3.4
+                 U std::chrono::_V2::system_clock::now()@GLIBCXX_3.4.19
+                 U std::locale::locale(std::locale const&)@GLIBCXX_3.4
+                 U std::locale::locale()@GLIBCXX_3.4
+                 U std::locale::~locale()@GLIBCXX_3.4
+                 U std::locale::operator=(std::locale const&)@GLIBCXX_3.4
+                 U std::thread::_M_start_thread(std::unique_ptr<std::thread::_State, std::default_delete<std::thread::_State> >, void (*)())@GLIBCXX_3.4.22
+                 U std::thread::hardware_concurrency()@GLIBCXX_3.4.17
+                 U std::thread::join()@GLIBCXX_3.4.11
+                 U std::thread::_State::~_State()@GLIBCXX_3.4.22
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_replace(unsigned long, unsigned long, char const*, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct(unsigned long, char)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_replace_aux(unsigned long, unsigned long, unsigned long, char)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::append(char const*)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::assign(char const*)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::resize(unsigned long, char)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::reserve(unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_erase(unsigned long, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_append(char const*, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_assign(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_create(unsigned long&, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_mutate(unsigned long, unsigned long, char const*, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::push_back(char)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::_M_construct(unsigned long, wchar_t)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::_M_replace_aux(unsigned long, unsigned long, unsigned long, wchar_t)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::resize(unsigned long, wchar_t)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::_M_assign(std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> > const&)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::_M_create(unsigned long&, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::_M_mutate(unsigned long, unsigned long, wchar_t const*, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::push_back(wchar_t)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::basic_string(std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >&&)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::_M_sync(char*, unsigned long, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_stringbuf<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::_M_sync(wchar_t*, unsigned long, unsigned long)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_stringstream<char, std::char_traits<char>, std::allocator<char> >::basic_stringstream(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::_Ios_Openmode)@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_stringstream<char, std::char_traits<char>, std::allocator<char> >::basic_stringstream()@GLIBCXX_3.4.26
+                 U std::__cxx11::basic_stringstream<char, std::char_traits<char>, std::allocator<char> >::~basic_stringstream()@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_istringstream<char, std::char_traits<char>, std::allocator<char> >::~basic_istringstream()@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_istringstream<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >::~basic_istringstream()@GLIBCXX_3.4.21
+                 U std::__cxx11::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::basic_ostringstream()@GLIBCXX_3.4.26
+                 U std::__cxx11::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >::~basic_ostringstream()@GLIBCXX_3.4.21
+                 U std::codecvt<wchar_t, char, __mbstate_t>::codecvt(unsigned long)@GLIBCXX_3.4
+                 U std::ios_base::Init::Init()@GLIBCXX_3.4
+                 U std::ios_base::Init::~Init()@GLIBCXX_3.4
+                 U std::ios_base::_M_swap(std::ios_base&)@GLIBCXX_3.4.21
+                 U std::ios_base::ios_base()@GLIBCXX_3.4
+                 U std::ios_base::~ios_base()@GLIBCXX_3.4
+                 U std::basic_ios<char, std::char_traits<char> >::_M_cache_locale(std::locale const&)@GLIBCXX_3.4
+                 U std::basic_ios<char, std::char_traits<char> >::init(std::basic_streambuf<char, std::char_traits<char> >*)@GLIBCXX_3.4
+                 U std::basic_ios<char, std::char_traits<char> >::clear(std::_Ios_Iostate)@GLIBCXX_3.4
+                 U std::basic_ios<wchar_t, std::char_traits<wchar_t> >::init(std::basic_streambuf<wchar_t, std::char_traits<wchar_t> >*)@GLIBCXX_3.4
+                 U std::exception::~exception()@GLIBCXX_3.4
+                 U std::exception::~exception()@GLIBCXX_3.4
+                 U std::_Hash_bytes(void const*, unsigned long, unsigned long)@CXXABI_1.3.5
+                 U std::__once_call@GLIBCXX_3.4.11
+                 U std::__once_callable@GLIBCXX_3.4.11
+                 U std::future_category()@GLIBCXX_3.4.15
+                 U std::basic_ostream<char, std::char_traits<char> >& std::__ostream_insert<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*, long)@GLIBCXX_3.4.9
+                 U std::__throw_bad_cast()@GLIBCXX_3.4
+                 U std::__throw_bad_alloc()@GLIBCXX_3.4
+                 U std::current_exception()@CXXABI_1.3.3
+                 U std::rethrow_exception(std::__exception_ptr::exception_ptr)@CXXABI_1.3.3
+                 U std::_Rb_tree_decrement(std::_Rb_tree_node_base*)@GLIBCXX_3.4
+                 U std::_Rb_tree_increment(std::_Rb_tree_node_base const*)@GLIBCXX_3.4
+                 U std::_Rb_tree_increment(std::_Rb_tree_node_base*)@GLIBCXX_3.4
+                 U std::__throw_logic_error(char const*)@GLIBCXX_3.4
+                 U std::__throw_range_error(char const*)@GLIBCXX_3.4
+                 U std::__throw_regex_error(std::regex_constants::error_type)@GLIBCXX_3.4.15
+                 U std::__throw_future_error(int)@GLIBCXX_3.4.14
+                 U std::__throw_length_error(char const*)@GLIBCXX_3.4
+                 U std::__throw_out_of_range(char const*)@GLIBCXX_3.4
+                 U std::__throw_system_error(int)@GLIBCXX_3.4.11
+                 U std::__throw_invalid_argument(char const*)@GLIBCXX_3.4
+                 U std::__throw_out_of_range_fmt(char const*, ...)@GLIBCXX_3.4.20
+                 U std::__throw_bad_function_call()@GLIBCXX_3.4.14
+                 U std::_Rb_tree_rebalance_for_erase(std::_Rb_tree_node_base*, std::_Rb_tree_node_base&)@GLIBCXX_3.4
+                 U std::_Rb_tree_insert_and_rebalance(bool, std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::_Rb_tree_node_base&)@GLIBCXX_3.4
+                 U std::cerr@GLIBCXX_3.4
+                 U std::basic_istream<char, std::char_traits<char> >& std::getline<char, std::char_traits<char>, std::allocator<char> >(std::basic_istream<char, std::char_traits<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&)@GLIBCXX_3.4.21
+                 U std::basic_istream<char, std::char_traits<char> >& std::getline<char, std::char_traits<char>, std::allocator<char> >(std::basic_istream<char, std::char_traits<char> >&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&, char)@GLIBCXX_3.4.21
+                 U std::terminate()@GLIBCXX_3.4
+                 U std::__cxx11::collate<char> const& std::use_facet<std::__cxx11::collate<char> >(std::locale const&)@GLIBCXX_3.4.21
+                 U std::__cxx11::collate<wchar_t> const& std::use_facet<std::__cxx11::collate<wchar_t> >(std::locale const&)@GLIBCXX_3.4.21
+                 U std::ctype<char> const& std::use_facet<std::ctype<char> >(std::locale const&)@GLIBCXX_3.4
+                 U std::ctype<wchar_t> const& std::use_facet<std::ctype<wchar_t> >(std::locale const&)@GLIBCXX_3.4
+                 U std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@GLIBCXX_3.4
+                 U std::basic_istream<char, std::char_traits<char> >& std::operator>><char, std::char_traits<char> >(std::basic_istream<char, std::char_traits<char> >&, char&)@GLIBCXX_3.4
+                 U typeinfo for __cxxabiv1::__forced_unwind@CXXABI_1.3.2
+                 U typeinfo for std::__future_base::_Result_base@GLIBCXX_3.4.15
+                 U typeinfo for std::locale::facet@GLIBCXX_3.4
+                 U typeinfo for std::thread::_State@GLIBCXX_3.4.22
+                 U typeinfo for std::regex_error@GLIBCXX_3.4.15
+                 U typeinfo for std::future_error@GLIBCXX_3.4.14
+                 U typeinfo for std::out_of_range@GLIBCXX_3.4
+                 U typeinfo for std::system_error@GLIBCXX_3.4.11
+                 U typeinfo for std::runtime_error@GLIBCXX_3.4
+                 U typeinfo for std::invalid_argument@GLIBCXX_3.4
+                 U typeinfo for std::__codecvt_utf8_base<char32_t>@GLIBCXX_3.4.21
+                 U typeinfo for std::__codecvt_utf8_base<wchar_t>@GLIBCXX_3.4.21
+                 U typeinfo for std::ctype<char>@GLIBCXX_3.4
+                 U typeinfo for std::ctype<wchar_t>@GLIBCXX_3.4
+                 U typeinfo for std::exception@GLIBCXX_3.4
+                 U typeinfo for signed char@CXXABI_1.3
+                 U typeinfo for bool@CXXABI_1.3
+                 U typeinfo for unsigned char@CXXABI_1.3
+                 U typeinfo for int@CXXABI_1.3
+                 U typeinfo for long@CXXABI_1.3
+                 U typeinfo for unsigned short@CXXABI_1.3
+                 U VTT for std::__cxx11::basic_stringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+                 U VTT for std::__cxx11::basic_istringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+                 U VTT for std::__cxx11::basic_istringstream<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >@GLIBCXX_3.4.21
+                 U VTT for std::__cxx11::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+                 U VTT for std::basic_ifstream<char, std::char_traits<char> >@GLIBCXX_3.4
+                 U VTT for std::basic_ofstream<char, std::char_traits<char> >@GLIBCXX_3.4
+                 U vtable for __cxxabiv1::__class_type_info@CXXABI_1.3
+                 U vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3
+                 U vtable for std::__cxx11::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+                 U vtable for std::__cxx11::basic_stringbuf<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >@GLIBCXX_3.4.21
+                 U vtable for std::__cxx11::basic_stringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+                 U vtable for std::__cxx11::basic_istringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+                 U vtable for std::__cxx11::basic_istringstream<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> >@GLIBCXX_3.4.21
+                 U vtable for std::__cxx11::basic_ostringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+                 U vtable for std::regex_error@GLIBCXX_3.4.15
+                 U vtable for std::future_error@GLIBCXX_3.4.14
+                 U vtable for std::basic_filebuf<char, std::char_traits<char> >@GLIBCXX_3.4
+                 U vtable for std::basic_ifstream<char, std::char_traits<char> >@GLIBCXX_3.4
+                 U vtable for std::basic_ofstream<char, std::char_traits<char> >@GLIBCXX_3.4
+                 U vtable for std::basic_streambuf<char, std::char_traits<char> >@GLIBCXX_3.4
+                 U vtable for std::basic_streambuf<wchar_t, std::char_traits<wchar_t> >@GLIBCXX_3.4
+                 U vtable for std::basic_ios<char, std::char_traits<char> >@GLIBCXX_3.4
+                 U vtable for std::basic_ios<wchar_t, std::char_traits<wchar_t> >@GLIBCXX_3.4
+                 U vtable for std::exception@GLIBCXX_3.4
+                 U operator delete[](void*)@GLIBCXX_3.4
+                 U operator delete(void*)@GLIBCXX_3.4
+                 U operator new[](unsigned long)@GLIBCXX_3.4
+                 U operator new(unsigned long)@GLIBCXX_3.4
+                 U __cxa_allocate_exception@CXXABI_1.3
+                 U __cxa_atexit@GLIBC_2.17
+                 U __cxa_bad_cast@CXXABI_1.3
+                 U __cxa_begin_catch@CXXABI_1.3
+                 U __cxa_end_catch@CXXABI_1.3
+                 w __cxa_finalize@GLIBC_2.17
+                 U __cxa_free_exception@CXXABI_1.3
+                 U __cxa_guard_abort@CXXABI_1.3
+                 U __cxa_guard_acquire@CXXABI_1.3
+                 U __cxa_guard_release@CXXABI_1.3
+                 U __cxa_init_primary_exception@CXXABI_1.3.11
+                 U __cxa_rethrow@CXXABI_1.3
+                 U __cxa_throw@CXXABI_1.3
+                 U __dynamic_cast@CXXABI_1.3
+                 U __errno_location@GLIBC_2.17
+                 U __fxstat@GLIBC_2.17
+                 U __getauxval@GLIBC_2.17
+                 w __gmon_start__
+                 U __gxx_personality_v0@CXXABI_1.3
+                 U __isoc99_sscanf@GLIBC_2.17
+                 U __once_proxy@GLIBCXX_3.4.11
+                 w __pthread_key_create@GLIBC_2.17
+                 U __sched_cpualloc@GLIBC_2.17
+                 U __sched_cpufree@GLIBC_2.17
+                 U __xmknod@GLIBC_2.17
+                 U __xstat@GLIBC_2.17
+                 U abort@GLIBC_2.17
+                 U access@GLIBC_2.17
+                 U backtrace@GLIBC_2.17
+                 U backtrace_symbols_fd@GLIBC_2.17
+                 U calloc@GLIBC_2.17
+                 U chmod@GLIBC_2.17
+                 U chown@GLIBC_2.17
+                 U clock@GLIBC_2.17
+                 U clock_gettime@GLIBC_2.17
+                 U close@GLIBC_2.17
+                 U closedir@GLIBC_2.17
+                 U dirfd@GLIBC_2.17
+                 U dlerror@GLIBC_2.17
+                 U dlopen@GLIBC_2.17
+                 U dlsym@GLIBC_2.17
+                 U execlp@GLIBC_2.17
+                 U exit@GLIBC_2.17
+                 U exp@GLIBC_2.29
+                 U exp2f@GLIBC_2.27
+                 U expf@GLIBC_2.27
+                 U expm1f@GLIBC_2.17
+                 U fclose@GLIBC_2.17
+                 U ferror@GLIBC_2.17
+                 U fflush@GLIBC_2.17
+                 U fgets@GLIBC_2.17
+                 U fileno@GLIBC_2.17
+                 U fopen@GLIBC_2.17
+                 U fork@GLIBC_2.17
+                 U fpathconf@GLIBC_2.17
+                 U fprintf@GLIBC_2.17
+                 U fputc@GLIBC_2.17
+                 U fputs@GLIBC_2.17
+                 U fread@GLIBC_2.17
+                 U free@GLIBC_2.17
+                 U fseek@GLIBC_2.17
+                 U ftell@GLIBC_2.17
+                 U fwrite@GLIBC_2.17
+                 U getcpu@GLIBC_2.29
+                 U getenv@GLIBC_2.17
+                 U geteuid@GLIBC_2.17
+                 U getpagesize@GLIBC_2.17
+                 U getpid@GLIBC_2.17
+                 U getrlimit@GLIBC_2.17
+                 U gettimeofday@GLIBC_2.17
+                 U ioctl@GLIBC_2.17
+                 U isprint@GLIBC_2.17
+                 U isspace@GLIBC_2.17
+                 U localeconv@GLIBC_2.17
+                 U localtime@GLIBC_2.17
+                 U localtime_r@GLIBC_2.17
+                 U log@GLIBC_2.29
+                 U log1pf@GLIBC_2.17
+                 U log2@GLIBC_2.29
+                 U log2f@GLIBC_2.27
+                 U logf@GLIBC_2.27
+                 U malloc@GLIBC_2.17
+                 U memcmp@GLIBC_2.17
+                 U memcpy@GLIBC_2.17
+                 U memmove@GLIBC_2.17
+                 U memset@GLIBC_2.17
+                 U mkdir@GLIBC_2.17
+                 U mlock@GLIBC_2.17
+                 U mmap@GLIBC_2.17
+                 U mmap64@GLIBC_2.17
+                 U munlock@GLIBC_2.17
+                 U munmap@GLIBC_2.17
+                 U omp_get_num_threads@OMP_1.0
+                 U omp_get_thread_num@OMP_1.0
+                 U open@GLIBC_2.17
+                 U opendir@GLIBC_2.17
+                 U perror@GLIBC_2.17
+                 U poll@GLIBC_2.17
+                 U posix_fadvise@GLIBC_2.17
+                 U posix_madvise@GLIBC_2.17
+                 U posix_memalign@GLIBC_2.17
+                 U pow@GLIBC_2.29
+                 U powf@GLIBC_2.27
+                 U pread@GLIBC_2.17
+                 U printf@GLIBC_2.17
+                 U pthread_create@GLIBC_2.17
+                 U pthread_getaffinity_np@GLIBC_2.17
+                 w pthread_mutex_lock@GLIBC_2.17
+                 w pthread_mutex_unlock@GLIBC_2.17
+                 w pthread_once@GLIBC_2.17
+                 U pthread_self@GLIBC_2.17
+                 U pthread_setaffinity_np@GLIBC_2.17
+                 U putc@GLIBC_2.17
+                 U putchar@GLIBC_2.17
+                 U puts@GLIBC_2.17
+                 U qsort@GLIBC_2.17
+                 U read@GLIBC_2.17
+                 U readdir@GLIBC_2.17
+                 U readdir_r@GLIBC_2.17
+                 U readlink@GLIBC_2.17
+                 U realloc@GLIBC_2.17
+                 U remove@GLIBC_2.17
+00000000000b9450 T rkllm_abort
+00000000000b9b10 T rkllm_accuracy_analysis
+00000000000b9470 T rkllm_clear_kv_cache
+00000000000b9490 T rkllm_createDefaultParam
+00000000000b93f0 T rkllm_destroy
+00000000000b9310 T rkllm_init
+00000000000b9460 T rkllm_is_running
+00000000000b93c0 T rkllm_load_lora
+00000000000b93d0 T rkllm_load_prompt_cache
+000000000013b200 T rkllm_print_memorys
+000000000013aff0 T rkllm_print_timings
+00000000000b93e0 T rkllm_release_prompt_cache
+00000000000b9430 T rkllm_run
+00000000000b9440 T rkllm_run_async
+00000000000b9480 T rkllm_set_chat_template
+                 U rmdir@GLIBC_2.17
+                 U scandir@GLIBC_2.17
+                 U sched_getaffinity@GLIBC_2.17
+                 U sched_yield@GLIBC_2.17
+                 U sincosf@GLIBC_2.17
+                 U snprintf@GLIBC_2.17
+                 U sprintf@GLIBC_2.17
+                 U sqrt@GLIBC_2.17
+                 U stderr@GLIBC_2.17
+                 U stdout@GLIBC_2.17
+                 U stpcpy@GLIBC_2.17
+                 U strcasecmp@GLIBC_2.17
+                 U strchr@GLIBC_2.17
+                 U strcmp@GLIBC_2.17
+                 U strcoll@GLIBC_2.17
+                 U strcpy@GLIBC_2.17
+                 U strdup@GLIBC_2.17
+                 U strerror@GLIBC_2.17
+                 U strftime@GLIBC_2.17
+                 U strlen@GLIBC_2.17
+                 U strncasecmp@GLIBC_2.17
+                 U strncat@GLIBC_2.17
+                 U strncmp@GLIBC_2.17
+                 U strncpy@GLIBC_2.17
+                 U strrchr@GLIBC_2.17
+                 U strstr@GLIBC_2.17
+                 U strtod@GLIBC_2.17
+                 U strtof@GLIBC_2.17
+                 U strtol@GLIBC_2.17
+                 U strtoll@GLIBC_2.17
+                 U strtoul@GLIBC_2.17
+                 U strtoull@GLIBC_2.17
+                 U sysconf@GLIBC_2.17
+                 U tanhf@GLIBC_2.17
+                 U time@GLIBC_2.17
+                 U tolower@GLIBC_2.17
+                 U toupper@GLIBC_2.17
+                 U usleep@GLIBC_2.17
+                 U vfprintf@GLIBC_2.17
+                 U vsnprintf@GLIBC_2.17
+                 U waitpid@GLIBC_2.17
+                 U wmemcmp@GLIBC_2.17
+                 U wmemcpy@GLIBC_2.17
