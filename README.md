@@ -1,11 +1,9 @@
 # open-rkllm
 An effort to open-source rkllm &amp; rknpu firmware
 
-# Analysis
-
-All analysis is done in the `analyze` directory.
-
 ## Strategies to Un-Compile `librkllmrt.so`
+
+Results of these strategies are in the `analyze` directory.
 
 If you want to analyze or reverse-engineer the compiled shared object file `librkllmrt.so`, here are some approaches you can try:
 
@@ -30,15 +28,6 @@ If you want to analyze or reverse-engineer the compiled shared object file `libr
 
 4. **Use a Decompiler (e.g., Ghidra, IDA Pro, or RetDec)**  
    Tools like Ghidra, IDA Pro, or the open-source RetDec can attempt to reconstruct C-like source code from the binary.
-
-5. **Analyze with `gdb`**  
-   Use the GNU Debugger to trace execution and set breakpoints.
-
-6. **Check for Debug Information**  
-   If the binary was compiled with debug symbols, more information may be available.
-
-7. **Look for Open Source or Documentation**  
-   Sometimes, the original source or partial documentation is available online.
 
 > Note: Reverse engineering may be restricted by software licenses or laws. Always ensure you have the right to analyze the binary.
 
